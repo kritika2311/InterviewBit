@@ -1,4 +1,4 @@
-#Sliding Window Concept.
+//Sliding Window Concept.
 
 public class Solution {
     public int solve(ArrayList<Integer> A, int B) {
