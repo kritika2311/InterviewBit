@@ -1,2 +1,2 @@
 # InterviewBit
-Solution of Interview Bit problems.
+Solution of problems on Interview Bit.
