@@ -1,4 +1,4 @@
-# Rotate Array By B Positions.
+//Rotate Array By B Positions.
 
 public class Solution {
 	public ArrayList<Integer> rotateArray(ArrayList<Integer> A, int B) {
